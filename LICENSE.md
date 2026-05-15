@@ -1,4 +1,4 @@
-# 
+# smart leverage trading bot Addon | futures-arbitrage + multi-exchange-support is the best leverage trading bot, featuring futures-arbitrage and multi-exchange-support. Smart,
 
 
 
